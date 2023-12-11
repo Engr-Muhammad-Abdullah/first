@@ -1,2 +1,4 @@
 # first
-This is my first Git Repositry. Author:- Muhammad Abdullah
+This is my first Git Repositry. 
+<br>
+Author:- Muhammad Abdullah
